@@ -1,18 +1,22 @@
-## Hello internet I'am Dika🌈
+### Hello internet I'am Dika🌈
 
-### I'm Test Engineer from Indonesia!
+## I'm QA Engineer
 #### Here are some ideas to get you started:
 
-- ⚡ I’m currently working on [Tanifund][tanifund]
-- ⚡ I’m currently learning [IDS Digital Collage][ids] - Software Engineer
+- ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
+<br/>
+🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
+<br/>
+🍭 Create technical documentation for other QA Engineer
+- ⚡ I’m currently learning [IDS Digital Collage][ids] as Software Engineer
 
-### How to reach me:
+## How to reach me:
 [<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="arsoedjono | Instagram" width="22px" src="img/instagram.png" />][instagram]
 
-<br/>
+<br/><br/>
 
-### Language and Tools:
+## Language and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/java.jpg" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/testng.png" />][testng]
@@ -26,6 +30,12 @@
 [<img align="left" alt="Appium" width="26px" src="img/docker.png" />][docker]
 [<img align="left" alt="Appium" width="26px" src="img/jenkins.png" />][jenkins]
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
+
+<br/><br/>
+
+## Experience
+- ⚡ QA Engineer - RCTI+ (Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
+- ⚡ Eannovate QA Engineer (Magang)
 
 
 [tanifund]: https://www.tanifund.com
