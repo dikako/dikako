@@ -13,13 +13,14 @@
 - ⚡ Fun fact: ...
 
 ### How to reach me:
-[<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arsoedjono | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
+[<img align="left" alt="arsoedjono | Instagram" width="22px" src="img/instagram.png" />][instagram]
 
 <br/>
 
 ### Language and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/visualstudiocode.svg" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/java.png" />][vscode]
 [<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/ruby.svg" />][ruby]
 [<img align="left" alt="Cucumber" width="26px" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" />][cucumber]
 [<img align="left" alt="Selenium" width="26px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/selenium-559980.png" />][selenium]
