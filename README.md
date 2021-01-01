@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ...
 
 ### How to reach me:
-[<img align="left" alt="arsoedjono | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arsoedjono | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />][instagram]
 
