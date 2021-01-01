@@ -33,6 +33,7 @@
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
 
 <br/><br/>
+<br/>
 
 ## Experience
 - ⚡ QA Engineer - RCTI+ (Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
