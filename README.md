@@ -4,7 +4,7 @@
 #### Here are some ideas to get you started:
 
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
-<br/>
+
 🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
 <br/>
 🍭 Create technical documentation for other QA Engineer
