@@ -20,12 +20,12 @@
 
 ### Language and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="img/java.png" />][vscode]
-[<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/ruby.svg" />][ruby]
-[<img align="left" alt="Cucumber" width="26px" src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" />][cucumber]
-[<img align="left" alt="Selenium" width="26px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/selenium-559980.png" />][selenium]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/java.png" />][java]
+[<img align="left" alt="Ruby" width="26px" src="img/ruby.png" />][ruby]
+[<img align="left" alt="Cucumber" width="26px" src="img/cucumber.png" />][cucumber]
+[<img align="left" alt="Selenium" width="26px" src="img/selenium.png" />][selenium]
 [<img align="left" alt="Appium" width="26px" src="https://cdn.worldvectorlogo.com/logos/appium.svg" />][appium]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/git.svg" />][git]
+[<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
 
 [tanifund]: https://www.tanifund.com
@@ -38,4 +38,5 @@
 [appium]: http://appium.io/
 [selenium]: https://www.selenium.dev/
 [cucumber]: https://cucumber.io/
+[java]: https://www.java.com/
 
