@@ -20,13 +20,19 @@
 
 ### Language and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="img/java.png" />][java]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/java.jpg" />][java]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/testng.png" />][testng]
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/restassured.png" />][restassured]
+[<img align="left" alt="Selenium" width="26px" src="img/selenium.png" />][selenium]
 [<img align="left" alt="Ruby" width="26px" src="img/ruby.png" />][ruby]
 [<img align="left" alt="Cucumber" width="26px" src="img/cucumber.png" />][cucumber]
-[<img align="left" alt="Selenium" width="26px" src="img/selenium.png" />][selenium]
-[<img align="left" alt="Appium" width="26px" src="https://cdn.worldvectorlogo.com/logos/appium.svg" />][appium]
+[<img align="left" alt="Cucumber" width="26px" src="img/httparty.png" />][httparty]
+[<img align="left" alt="Appium" width="26px" src="img/appium.png" />][appium]
+[<img align="left" alt="Appium" width="26px" src="img/allure.png" />][allure]
+[<img align="left" alt="Appium" width="26px" src="img/docker.png" />][docker]
+[<img align="left" alt="Appium" width="26px" src="img/jenkins.png" />][jenkins]
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
+
 
 [tanifund]: https://www.tanifund.com
 [linkedin]: https://www.linkedin.com/in/fransiskus-andika-setiawan
@@ -39,4 +45,10 @@
 [selenium]: https://www.selenium.dev/
 [cucumber]: https://cucumber.io/
 [java]: https://www.java.com/
+[testng]: https://testng.org/doc
+[restassured]: https://rest-assured.io/
+[httparty]: https://github.com/jnunemaker/httparty
+[allure]: http://allure.qatools.ru/
+[jenkins]: https://www.jenkins.io/
+[docker]: https://www.docker.com/
 
