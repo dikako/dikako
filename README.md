@@ -3,14 +3,8 @@
 ### I'm Test Engineer from Indonesia!
 #### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [tanifund.com][tanifund]
-- 🌱 I’m currently learning IDS Digital Collage - Software Engineer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ I’m currently working on [Tanifund][tanifund]
+- ⚡ I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
 ### How to reach me:
 [<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
@@ -51,4 +45,5 @@
 [allure]: http://allure.qatools.ru/
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
+[ids]: https://ids.ac.id/
 
