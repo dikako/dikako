@@ -9,7 +9,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Create technical documentation for other QA Engineer
 <br/>
-- ⚡ I’m currently learning [IDS Digital Collage][ids] as Software Engineer
+- ⚡ I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
 ## How to reach me:
 [<img align="left" alt="arsoedjono | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
