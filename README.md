@@ -5,9 +5,9 @@
 
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Create technical documentation for other QA Engineer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Create technical documentation for other QA Engineer
 <br/>
 - ⚡ I’m currently learning [IDS Digital Collage][ids] as Software Engineer
 
