@@ -1,4 +1,5 @@
-### Hello internet I'am Dika 🌈
+
+# Hello internet I'am Dika 🌈
 
 ## I'm QA Engineer
 #### Here are some ideas to get you started:
