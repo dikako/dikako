@@ -1,7 +1,7 @@
-<img align="left" alt="dikakoko | LinkedIn" width="100%" src="img/ruby-code.jpg" />
+<img align="center" alt="dikakoko | LinkedIn" width="100%" src="img/ruby-code.jpg" />
 <br/> <br/>
 
-# Hello internet I'am Dika 🌈
+# Hello internet I'am Dika
 
 ## I'm QA Engineer
 #### Here are some ideas to get you started:
@@ -9,10 +9,12 @@
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
 <br/>
 what's i do?
+
 ```ruby
 🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
 🍭 Create technical documentation for other QA Engineer
 ```
+
 - ⚡ I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
 ## How to reach me:
@@ -47,9 +49,11 @@ what's i do?
 - ⚡ QA Engineer - RCTI+ 
 <br/>
 what's i do?
+
 ```ruby
 🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
 ```
+
 - ⚡ Eannovate QA Engineer (Magang)
 
 
