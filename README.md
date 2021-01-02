@@ -48,7 +48,7 @@ what's i do?
 
 what's i do?
 ```ruby
-🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
+🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins]
 ```
 - ☑️ Eannovate QA Engineer (Magang)
 
