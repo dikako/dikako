@@ -7,7 +7,6 @@
 #### Here are some ideas to get you started:
 
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
-<br/>
 
 what's i do?
 ```ruby
@@ -46,7 +45,6 @@ what's i do?
 
 ## Experience
 - ⚡ QA Engineer - RCTI+ 
-<br/>
 
 what's i do?
 ```ruby
