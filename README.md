@@ -4,7 +4,7 @@
 # Hello internet I'm Dika🤘
 
 ## I'm QA Engineer
-#### Here are some ideas to get you started:
+#### Here is About me:
 
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
 
