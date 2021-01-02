@@ -1,5 +1,5 @@
 <img align="center" alt="dikakoko | LinkedIn" width="100%" src="img/ruby-code.jpg" />
-<br/> <br/>
+<br/> 
 
 # Hello internet I'm Dika🤘
 
