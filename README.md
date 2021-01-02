@@ -5,10 +5,12 @@
 
 - ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Create technical documentation for other QA Engineer
-<br/>
+```ruby
+🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
+🍭 Create technical documentation for other QA Engineer
+```
+
+
 - ⚡ I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
 ## How to reach me:
@@ -40,7 +42,9 @@
 ## Experience
 - ⚡ QA Engineer - RCTI+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
+```ruby
+🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
+```
 - ⚡ Eannovate QA Engineer (Magang)
 
 
