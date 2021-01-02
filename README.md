@@ -32,11 +32,15 @@
 [<img align="left" alt="Appium" width="26px" src="img/jenkins.png" />][jenkins]
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
 
+
+
 <br/><br/>
 <br/>
 
 ## Experience
-- ⚡ QA Engineer - RCTI+ (Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
+- ⚡ QA Engineer - RCTI+ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins])
 - ⚡ Eannovate QA Engineer (Magang)
 
 
