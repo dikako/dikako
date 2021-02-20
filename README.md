@@ -6,13 +6,8 @@
 ## I'm QA Engineer
 #### Here is About me:
 
-- ⚡ I’m currently working on [Tanifund][tanifund] as QA Engineer
+- ⚡ I’m currently working on Bukalapak as QA Engineer
 
-what's i do?
-```ruby
-🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
-🍭 Create technical documentation for other QA Engineer
-```
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
 ## How to reach me:
@@ -44,6 +39,15 @@ what's i do?
 
 
 ## Experience
+
+- ☑️ QA Engineer - [Tanifund][tanifund] 
+
+what's i do?
+```ruby
+🍭 Build API Automation Testing using (Ruby, Httparty, Cucumber, Docker, Jenkins)
+🍭 Create technical documentation for other QA Engineer
+```
+
 - ☑️ QA Engineer - RCTI+ 
 
 what's i do?
