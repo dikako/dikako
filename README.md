@@ -6,7 +6,7 @@
 ## I'm QA Engineer
 #### Here is About me:
 
-- ⚡ I’m currently working on Bukalapak as QA Engineer
+- ⚡ I’m currently working on Bukalapak as Test Engineer
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
