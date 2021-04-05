@@ -3,7 +3,7 @@
 
 # Hello internet I'm Dika🤘
 
-## I'm QA Engineer
+## I'm Test Engineer
 #### Here is About me:
 
 - ⚡ I’m currently working on Bukalapak as Test Engineer
