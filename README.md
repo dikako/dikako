@@ -13,6 +13,7 @@
 ## How to reach me:
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
+[<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][instagram]
 
 <br/><br/>
 
@@ -75,4 +76,5 @@ what's i do?
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
 [ids]: https://ids.ac.id/
+[stackoverflow]: https://stackoverflow.com/questions/64702927/how-can-i-extract-data-from-json-array-to-use-in-subsequent-rest-assure-api-requ/64735303#64735303
 
