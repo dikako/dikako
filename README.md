@@ -7,6 +7,9 @@
 #### Here is About me:
 
 - ⚡ I’m currently working on Bukalapak as Test Engineer
+```ruby
+- Squad Investment
+```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer
 
