@@ -34,6 +34,8 @@
 [<img align="left" alt="Docker" width="26px" src="img/docker.png" />][docker]
 [<img align="left" alt="Jenkins" width="26px" src="img/jenkins.png" />][jenkins]
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git] 
+[<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
+[<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
 
 
 
@@ -80,4 +82,6 @@ what's i do?
 [docker]: https://www.docker.com/
 [ids]: https://ids.ac.id/
 [stackoverflow]: https://stackoverflow.com/questions/64702927/how-can-i-extract-data-from-json-array-to-use-in-subsequent-rest-assure-api-requ/64735303#64735303
+[xcuitest]: https://appium.io/docs/en/drivers/ios-xcuitest/
+[salad]: https://github.com/salad/salad
 
