@@ -11,7 +11,7 @@
 - Squad Investment
 ```
 
-- 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer
+- 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
 
 ## How to reach me:
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
