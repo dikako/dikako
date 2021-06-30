@@ -16,7 +16,7 @@
 ## How to reach me:
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
-[<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][instagram]
+[<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />][instagram]
 
 <br/><br/>
 
