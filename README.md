@@ -6,7 +6,7 @@
 ## I'm Test Engineer
 #### Here is About me:
 
-- ⚡ I’m currently working on Bukalapak as Test Engineer
+- ⚡ I’m currently working on [Bukalapak][bukalapak] as Test Engineer
 ```ruby
 - Squad Investment
 ```
@@ -86,4 +86,4 @@ what's i do?
 [stackoverflow]: https://stackoverflow.com/questions/64702927/how-can-i-extract-data-from-json-array-to-use-in-subsequent-rest-assure-api-requ/64735303#64735303
 [xcuitest]: https://appium.io/docs/en/drivers/ios-xcuitest/
 [salad]: https://github.com/salad/salad
-
+[bukalapak]: https://www.bukalapak.com/
