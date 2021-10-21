@@ -9,6 +9,18 @@
 - ⚡ I’m currently working on [Bukalapak][bukalapak] as Test Engineer
 ```ruby
 - Squad Investment
+-- Create Automation for:
+---- iOS(XCUITest, Cucumber, Java, Appium, Xray)
+---- Android(Espresso, Cucumber, Java, Appium, Xray)
+---- Web(Cucumber, Ruby, capybara, Xray)
+---- Api(Cucumber Ruby, httparty, Xray)
+-- Manual Testing for new feature:
+---- iOS & Android Bukalapak Marketplace (Bukareksa & BukaEmas)
+---- iOS & Android (BMoney)
+-- Regression Testing (Automation & Manual)
+-- Mentoring new member TE (Test Engineer)
+-- Monitoring SmokeTest
+-- Monitoring automation pipeline
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
