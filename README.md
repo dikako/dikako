@@ -20,7 +20,7 @@
 -- Regression Testing (Automation & Manual)
 -- Mentoring new member TE (Test Engineer)
 -- Monitoring SmokeTest
--- Monitoring automation pipeline
+-- Monitoring automation pipeline [Gitlab Pipeline for api & web] and [Jenkins for iOS & Android]
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
