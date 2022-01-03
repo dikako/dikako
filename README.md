@@ -3,24 +3,12 @@
 
 # Hello internet I'm Dika🤘
 
-## I'm Test Engineer
+## I'm QA Engineer
 #### Here is About me:
 
-- ⚡ I’m currently working on [Bukalapak][bukalapak] as Test Engineer
+- ⚡ I’m currently working on [bibit][Bibit] & [stockbit][Stockbit] as QA Engineer
 ```ruby
-- Squad Investment
--- Create Automation for:
----- iOS(XCUITest, Cucumber, Java, Appium, Xray)
----- Android(Espresso, Cucumber, Java, Appium, Xray)
----- Web(Cucumber, Ruby, capybara, Xray)
----- Api(Cucumber Ruby, httparty, Xray)
--- Manual Testing for new feature:
----- iOS & Android Bukalapak Marketplace (Bukareksa & BukaEmas)
----- iOS & Android (BMoney)
--- Regression Testing (Automation & Manual)
--- Mentoring new member TE (Test Engineer)
--- Monitoring SmokeTest
--- Monitoring automation pipeline [Gitlab Pipeline for api & web] and [Jenkins for iOS & Android]
+  Comming Soon :p
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
@@ -48,17 +36,27 @@
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git] 
 [<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
 [<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
-
-
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
 <br/><br/>
 
 
 
 ## Experience
+- ☑️ QA Engineer - [bukalapak][Bukalapak] as Test Engineer
+```ruby
+- Squad Investment
+-- Create Automation for:
+---- iOS(XCUITest, Cucumber, Java, Appium, Xray)
+---- Android(Espresso, Cucumber, Java, Appium, Xray)
+---- Web(Cucumber, Ruby, capybara, Xray)
+---- Api(Cucumber Ruby, httparty, Xray)
+-- Manual Testing for new feature:
+---- iOS & Android Bukalapak Marketplace (Bukareksa & BukaEmas)
+---- iOS & Android (BMoney)
+-- Regression Testing (Automation & Manual)
+-- Mentoring new member TE (Test Engineer)
+-- Monitoring SmokeTest
+-- Monitoring automation pipeline [Gitlab Pipeline for api & web] and [Jenkins for iOS & Android]
+```
 
 - ☑️ QA Engineer - [Tanifund][tanifund] 
 
@@ -68,13 +66,13 @@ what's i do?
 🍭 Create technical documentation for other QA Engineer
 ```
 
-- ☑️ QA Engineer - RCTI+ 
+- ☑️ QA Engineer - [rctiplus][rctiplus]
 
 what's i do?
 ```ruby
 🍭 Build automation testing Api & Web UI using [Java, Selenium, RestAssured, TestNG, Allure Report, Docker, Jenkins]
 ```
-- ☑️ Eannovate QA Engineer (Magang)
+- ☑️ [eannovate][Eannovate] - QA Engineer (Magang)
 
 
 [tanifund]: https://www.tanifund.com
@@ -99,3 +97,7 @@ what's i do?
 [xcuitest]: https://appium.io/docs/en/drivers/ios-xcuitest/
 [salad]: https://github.com/salad/salad
 [bukalapak]: https://www.bukalapak.com/
+[bibit]: https://bibit.id/
+[stockbit]: https://stockbit.com/
+[rctiplus]: https://www.rctiplus.com/
+[eannovate]: https://www.eannovate.com/
