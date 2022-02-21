@@ -8,7 +8,9 @@
 
 - ⚡ I’m currently working on [bibit][Bibit] & [stockbit][Stockbit] as QA Engineer
 ```ruby
-  Comming Soon :p
+- Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline
+- Maintaining Automation iOS Apps
+- Maintaining pipeline Automation iOS Apps
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
