@@ -8,6 +8,7 @@
 
 - ⚡ I’m currently working on [bibit][Bibit] & [stockbit][Stockbit] as QA Engineer
 ```ruby
+STOCKBIT
 - Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline
 - Maintaining Automation iOS Apps
 - Maintaining pipeline Automation iOS Apps
