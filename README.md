@@ -12,6 +12,7 @@ STOCKBIT
 - Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline and integrate with Browserstack
 - Maintaining Automation iOS Apps
 - Maintaining pipeline Automation iOS Apps
+- Improve Automation framework for iOS automation testing running on Browserstack
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
@@ -39,6 +40,7 @@ STOCKBIT
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git] 
 [<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
 [<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
+[<img align="left" alt="browserstack" width="26px" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"/>][browserstack]
 <br/><br/>
 
 
@@ -104,3 +106,4 @@ what's i do?
 [stockbit]: https://stockbit.com/
 [rctiplus]: https://www.rctiplus.com/
 [eannovate]: https://www.eannovate.com/
+[browserstack]: https://www.browserstack.com
