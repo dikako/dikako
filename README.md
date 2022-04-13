@@ -46,6 +46,7 @@ STOCKBIT
 [<img align="left" alt="xray" width="26px" src="https://docs.getxray.app/download/attachments/27536922/Logo-Xray.png?version=2&modificationDate=1540404968127&api=v2"/>][xray]
 [<img align="left" alt="gitlab" width="26px" src="https://gitlab.com/uploads/-/system/project/avatar/20390548/logo-extra-whitespace.png"/>][gitlab]
 [<img align="left" alt="k6" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png"/>][k6]
+[<img align="left" alt="jira" width="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
 <br/><br/>
 
 
@@ -117,3 +118,4 @@ what's i do?
 [xray]: https://www.getxray.app/
 [gitlab]: https://about.gitlab.com/
 [k6]: https://k6.io/
+[jira]: https://www.atlassian.com/software/jira
