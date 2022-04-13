@@ -41,6 +41,7 @@ STOCKBIT
 [<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
 [<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
 [<img align="left" alt="browserstack" width="26px" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"/>][browserstack]
+[<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
 <br/><br/>
 
 
@@ -107,3 +108,4 @@ what's i do?
 [rctiplus]: https://www.rctiplus.com/
 [eannovate]: https://www.eannovate.com/
 [browserstack]: https://www.browserstack.com
+[intellij]: https://www.jetbrains.com/idea/
