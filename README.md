@@ -42,6 +42,10 @@ STOCKBIT
 [<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
 [<img align="left" alt="browserstack" width="26px" src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png"/>][browserstack]
 [<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
+[<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
+[<img align="left" alt="xray" width="26px" src="https://docs.getxray.app/download/attachments/27536922/Logo-Xray.png?version=2&modificationDate=1540404968127&api=v2"/>][xray]
+[<img align="left" alt="gitlab" width="26px" src="https://gitlab.com/uploads/-/system/project/avatar/20390548/logo-extra-whitespace.png"/>][gitlab]
+[<img align="left" alt="k6" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png"/>][k6]
 <br/><br/>
 
 
@@ -109,3 +113,7 @@ what's i do?
 [eannovate]: https://www.eannovate.com/
 [browserstack]: https://www.browserstack.com
 [intellij]: https://www.jetbrains.com/idea/
+[postman]: https://www.postman.com/
+[xray]: https://www.getxray.app/
+[gitlab]: https://about.gitlab.com/
+[k6]: https://k6.io/
