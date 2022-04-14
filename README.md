@@ -6,7 +6,7 @@
 ## I'm QA Engineer
 #### Here is About me:
 
-- ⚡ I’m currently working on [bibit][Bibit] & [stockbit][Stockbit] as QA Engineer
+- ⚡ I’m currently working on [bibit][Bibit] x [stockbit][Stockbit] as QA Engineer
 ```ruby
 STOCKBIT
 - Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline and integrate with Browserstack
