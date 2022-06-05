@@ -14,6 +14,7 @@ STOCKBIT Spescialy in iOS Apps
 - Maintaining pipeline Automation iOS Apps
 - Improve Automation framework for iOS automation testing running on Browserstack
 - Integrate Automation with XRAY Testcases Management in JIRA
+- Mentoring other QA Engineer member how Integrate Automation with XRAY Testcases Management in JIRA
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
