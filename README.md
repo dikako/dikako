@@ -1,6 +1,3 @@
-<img align="center" alt="dikakoko | LinkedIn" width="100%" src="img/ruby-code.jpg" />
-<br/> 
-
 # Hello internet I'm Dika🤘
 
 ## I'm QA Engineer
