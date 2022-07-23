@@ -12,6 +12,7 @@ STOCKBIT Spescialy in iOS Apps
 - Improve Automation framework for iOS automation testing running on Browserstack
 - Integrate Automation with XRAY Testcases Management in JIRA
 - Mentoring other QA Engineer member how Integrate Automation with XRAY Testcases Management in JIRA
+- Mentoring other QA Engineer member how to implement UIMap/Object Repository 
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
