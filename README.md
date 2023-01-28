@@ -15,7 +15,7 @@
 - Mentoring other QA Engineer member how Integrate Automation with XRAY Test case Management in JIRA
 - Mentoring other QA Engineer member How To Triggered Automation Testing with JIRA
 - Mentoring other QA Engineer member how to implement UIMap/Object Repository
-- ISQA Speaker [How QA Involved in Stock Investment Product][isqa]
+- ISQA Speaker (How QA Involved in Stock Investment Product)
 - Mentoring Manual QA Testers to run automated tests iOS and Android on their local machines
 ```
 
