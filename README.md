@@ -5,16 +5,18 @@
 
 - ⚡ I’m currently working on [bibit][Bibit] x [stockbit][Stockbit] as QA Engineer
 ```ruby
-STOCKBIT Spescialy in iOS Apps
-- Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline and integrate with Browserstack
-- Maintaining Automation iOS Apps
-- Maintaining pipeline Automation iOS Apps
-- Maintaining mac mini as iOS Simulator and Android Emulator
-- Improve Automation framework for iOS automation testing running on Browserstack
-- Integrate Automation with XRAY Testcases Management in JIRA
-- Mentoring other QA Engineer member how Integrate Automation with XRAY Testcases Management in JIRA
-- Mentoring other QA Engineer member How To Triggered Automation Testing with Jira 
-- Mentoring other QA Engineer member how to implement UIMap/Object Repository 
+- Collaborate with QA Analyst and QA Tester Manual Team
+- Create Automation for iOS Apps using Cucumber Java, XCUITest, Rest Assured, Appium, Gitlab pipeline and integrate with Browserstack
+- Create Automation for Android Apps using Cucumber Java, UIAutomator, Rest Assured, Appium, Gitlab pipeline and integrate with Browserstack - Create Automation for Api using Cucumber Java, Rest Assured and run on Gitlab pipeline
+- Maintaining Automation iOS, Android And Api 
+- Maintaining gitlab pipeline Automation iOS, Android and Api
+- Maintaining Mac mini as iOS Simulator and Android Emulator
+- Integrate Automation Scenario with Xray Test case Management in JIRA
+- Mentoring other QA Engineer member how Integrate Automation with XRAY Test case Management in JIRA
+- Mentoring other QA Engineer member How To Triggered Automation Testing with JIRA
+- Mentoring other QA Engineer member how to implement UIMap/Object Repository
+- ISQA Speaker [How QA Involved in Stock Investment Product][isqa]
+- Mentoring Manual QA Testers to run automated tests iOS and Android on their local machines
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
@@ -22,7 +24,8 @@ STOCKBIT Spescialy in iOS Apps
 ## How to reach me:
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
-[<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"/>][stackoverflow]
+[<img align="left" alt="dikakoko | isqa" width="22px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/>][isqa]
 
 <br/><br/>
 
@@ -121,3 +124,4 @@ what's i do?
 [gitlab]: https://about.gitlab.com/
 [k6]: https://k6.io/
 [jira]: https://www.atlassian.com/software/jira
+[isqa]: https://youtu.be/GjvcmaUCvmQ
