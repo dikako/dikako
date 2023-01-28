@@ -9,6 +9,7 @@ STOCKBIT Spescialy in iOS Apps
 - Create Automation for iOS Apps using Cucumber Java, XCUITest, Appium, Gitlab pipeline and integrate with Browserstack
 - Maintaining Automation iOS Apps
 - Maintaining pipeline Automation iOS Apps
+- Maintaining mac mini as iOS Simulator and Android Emulator
 - Improve Automation framework for iOS automation testing running on Browserstack
 - Integrate Automation with XRAY Testcases Management in JIRA
 - Mentoring other QA Engineer member how Integrate Automation with XRAY Testcases Management in JIRA
