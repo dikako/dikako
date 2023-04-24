@@ -18,6 +18,7 @@
 - ISQA Speaker (How QA Involved in Stock Investment Product)
 - Mentoring Manual QA Testers to run automated tests iOS and Android on their local machines
 - Manage 6 team member
+- Build api automation testing framework for team
 ```
 
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
