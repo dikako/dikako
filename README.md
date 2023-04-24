@@ -24,6 +24,7 @@
 - 🎯 I’m currently learning [IDS Digital Collage][ids] - Software Engineer (Bachelor Degree)
 
 ## How to reach me:
+[<img align="left" alt="dikakoko | Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium] 
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"/>][stackoverflow]
@@ -127,3 +128,4 @@ what's i do?
 [k6]: https://k6.io/
 [jira]: https://www.atlassian.com/software/jira
 [isqa]: https://youtu.be/GjvcmaUCvmQ
+[medium]: https://medium.com/@dikakoko
