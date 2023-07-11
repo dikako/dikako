@@ -17,7 +17,7 @@
 - Mentoring other QA Engineer member how to implement UIMap/Object Repository
 - ISQA Speaker (How QA Involved in Stock Investment Product)
 - Mentoring Manual QA Testers to run automated tests iOS and Android on their local machines
-- Manage 6 team member
+- Manage QA Engineer team member
 - Build api automation testing framework for team
 ```
 
