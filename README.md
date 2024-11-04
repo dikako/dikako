@@ -28,6 +28,7 @@
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"/>][stackoverflow]
+[<img align="left" alt="dikakoko | rubygems" width="22px" src="https://static-00.iconduck.com/assets.00/rubygems-icon-2048x2048-juu8qohx.png"/>][rubygems]
 [<img align="left" alt="dikakoko | isqa" width="22px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/>][isqa]
 
 <br/><br/>
@@ -133,3 +134,4 @@ what's i do?
 [medium]: https://medium.com/@dikakoko
 [appium-device-farm]: https://devicefarm.org
 [grpc]: https://grpc.io
+[rubygems]: https://rubygems.org/profiles/dikakoko
