@@ -32,6 +32,7 @@
 [<img align="left" alt="dikakoko | rubygems" width="22px" src="https://avatars.githubusercontent.com/u/208761?v=4"/>][rubygems]
 [<img align="left" alt="dikakoko | isqa" width="22px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/>][isqa]
 [<img align="left" alt="dikakoko | mentor dibimbing" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17xLBXGrRaF909EyqQyMXoscYkLd9LM2jtA&s"/>][dibimbing]
+[<img align="left" alt="dikakoko | mentor dibimbing" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLCVo7eOLX1yuNqtzd6bZAgyIIkJprGQ0ug&s"/>][gdrive-downloaded]
 
 <br/><br/>
 
@@ -135,3 +136,4 @@ what's i do?
 [grpc]: https://grpc.io
 [rubygems]: https://rubygems.org/profiles/dikakoko
 [dibimbing]: https://dibimbing.id/layanan/bootcamp/quality-assurance?category=online
+[gdrive-downloaded]: https://jitpack.io/#dikako/gdrive-downloader
