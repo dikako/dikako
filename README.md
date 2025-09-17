@@ -5,6 +5,7 @@
 
 - ⚡ I’m currently working on [bibit][Bibit] x [stockbit][Stockbit] as Senior QA Engineer
 ```ruby
+- *Indiviudal Contributor (Core Enabler)
 - Collaborate with QA Analyst and QA Tester Manual Team
 - Create Automation for iOS Apps using Cucumber Java, XCUITest, Rest Assured, Appium, Gitlab pipeline and integrate with Browserstack
 - Create Automation for Android Apps using Cucumber Java, UIAutomator, Rest Assured, Appium, Gitlab pipeline and integrate with Browserstack - Create Automation for Api using Cucumber Java, Rest Assured and run on Gitlab pipeline
@@ -28,13 +29,12 @@
 [<img align="left" alt="dikakoko | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin] 
 [<img align="left" alt="dikakoko | Instagram" width="22px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="dikakoko | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"/>][stackoverflow]
-[<img align="left" alt="dikakoko | rubygems" width="22px" src="https://static-00.iconduck.com/assets.00/rubygems-icon-2048x2048-juu8qohx.png"/>][rubygems]
+[<img align="left" alt="dikakoko | rubygems" width="22px" src="https://avatars.githubusercontent.com/u/208761?v=4"/>][rubygems]
 [<img align="left" alt="dikakoko | isqa" width="22px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/>][isqa]
 
 <br/><br/>
 
 ## Language and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="img/java.jpg" />][java]
 [<img align="left" alt="TestNG" width="26px" src="img/testng.png" />][testng]
 [<img align="left" alt="Rest Assured" width="26px" src="img/restassured.png" />][restassured]
@@ -48,9 +48,7 @@
 [<img align="left" alt="Jenkins" width="26px" src="img/jenkins.png" />][jenkins]
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git] 
 [<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
-[<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
 [<img align="left" alt="browserstack" width="26px" src="https://avatars.githubusercontent.com/u/1119453?s=280&v=4"/>][browserstack]
-[<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
 [<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
 [<img align="left" alt="xray" width="26px" src="https://conference.eurostarsoftwaretesting.com/wp-content/uploads/2021/03/Xray-V-green.png"/>][xray]
 [<img align="left" alt="gitlab" width="26px" src="https://gitlab.com/uploads/-/system/project/avatar/20390548/logo-extra-whitespace.png"/>][gitlab]
