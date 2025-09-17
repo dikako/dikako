@@ -49,7 +49,7 @@
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git] 
 [<img align="left" alt="xcuitest" width="26px" src="https://images.ctfassets.net/czwjnyf8a9ri/2OWZnl3v2xJcqBZPIczU1s/1ea9ea383887e13d76b0b6c386ddf09c/logo-xcuitest.png?w=250" />][xcuitest]
 [<img align="left" alt="salad" width="26px" src="https://images.emojiterra.com/google/android-nougat/512px/1f957.png"/>][salad]
-[<img align="left" alt="browserstack" width="26px" src="https://static-00.iconduck.com/assets.00/browserstack-icon-1024x1024-7zz2pc78.png"/>][browserstack]
+[<img align="left" alt="browserstack" width="26px" src="https://avatars.githubusercontent.com/u/1119453?s=280&v=4"/>][browserstack]
 [<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
 [<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
 [<img align="left" alt="xray" width="26px" src="https://conference.eurostarsoftwaretesting.com/wp-content/uploads/2021/03/Xray-V-green.png"/>][xray]
